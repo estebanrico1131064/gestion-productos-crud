@@ -1,5 +1,9 @@
 # Gestion de Productos - CRUD en Python
 
+[![SonarQube Cloud](https://github.com/estebanrico1131064/gestion-productos-crud/actions/workflows/sonarqube.yml/badge.svg)](https://github.com/estebanrico1131064/gestion-productos-crud/actions/workflows/sonarqube.yml)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=estebanrico1131064_gestion-productos-crud&metric=alert_status)](https://sonarcloud.io/project/overview?id=estebanrico1131064_gestion-productos-crud)
+[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=estebanrico1131064_gestion-productos-crud&metric=coverage)](https://sonarcloud.io/project/overview?id=estebanrico1131064_gestion-productos-crud)
+
 Taller evaluativo de la Guia de Trabajo No. 4 de **Aplicaciones y Servicios Web**
 (Instituto Tecnologico Metropolitano).
 
