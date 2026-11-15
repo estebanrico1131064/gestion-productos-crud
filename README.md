@@ -24,7 +24,8 @@ pruebas unitarias con `unittest`.
 |   |-- servicio.py             # Logica del CRUD y validaciones
 |   `-- errores.py              # Excepciones propias del dominio
 |-- tests/
-|   `-- test_crud.py            # Pruebas unitarias (caso exitoso y de error por operacion)
+|   |-- test_crud.py            # Pruebas del CRUD (caso exitoso y de error por operacion)
+|   `-- test_cli.py             # Pruebas del menu de consola
 |-- data/
 |   `-- productos.json          # Se crea automaticamente al primer registro
 |-- sonar-project.properties    # Configuracion del analisis de calidad
