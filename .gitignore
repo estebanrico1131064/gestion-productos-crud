@@ -1,0 +1,31 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.coverage
+coverage.xml
+htmlcov/
+
+# Entorno virtual
+.venv/
+venv/
+env/
+
+# Datos generados en tiempo de ejecucion
+data/productos.json
+data/*.tmp
+
+# Editores y sistema
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
+
+# SonarQube
+.scannerwork/
+
+# Documento de entrega y guia personal (no se publican en el repositorio)
+*.docx
+GUIA_PASO_A_PASO.md

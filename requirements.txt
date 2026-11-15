@@ -1,0 +1,4 @@
+# La aplicacion funciona solo con la libreria estandar de Python.
+# Estas dependencias se usan unicamente para pruebas y analisis de calidad.
+
+coverage==7.6.10
